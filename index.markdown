@@ -3,7 +3,8 @@ layout: default
 ---
 
 # gm
-welcome to my website.
+Somehow you found my simple website..
 
-I work on smart contracts and AI. If you have questions or are looking for developer, feel free to contact me on Twitter or Discord under 0xAkuti or via mail(at)akuti(dot)xyz.
+I have a background in computer graphics, computer vision and deep learning and currently work mostly on smart contracts.
 
+If you are looking for developer or have questions, feel free to contact me on Discord/Twitter via `0xAkuti` or via `mail(at)akuti(dot)xyz`.

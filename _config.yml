@@ -1,5 +1,6 @@
-title: Akuti's website
-description: Akuti's website
+title: akuti
+description: software developer
 show_downloads: false
+show_description: false
 google_analytics:
 theme: jekyll-theme-hacker

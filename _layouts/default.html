@@ -17,8 +17,9 @@
         <a id="a-title" href="{{ '/' | relative_url }}">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
         </a>
+        {% if site.show_description %}
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-
+        {% endif %}
         {% if site.show_downloads %}
         <section id="downloads">
             <a href="{{ site.github.zip_url }}" class="btn">Download as .zip</a>
